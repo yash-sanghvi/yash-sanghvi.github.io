@@ -238,7 +238,7 @@ figure {
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
   clear: both; }
   #colorlib-hero .flexslider {
     border: none;
@@ -251,12 +251,12 @@ figure {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: bottom center;
-        min-height: 400px;
+        min-height: 100px;
         position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
-      bottom: 20px;
+      bottom: 100px;
       z-index: 1000;
-      left: 20px;
+      right: 20px;
       float: left;
       width: auto; }
       @media screen and (max-width: 768px) {
